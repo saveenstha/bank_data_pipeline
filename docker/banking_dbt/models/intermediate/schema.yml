@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: customer_transactions
+    description: "Joined view of transactions with customer and account information"
+    columns:
+      - name: transaction_id
+        description: "Unique ID for each transaction"
+      - name: account_id
+        description: "Account associated with transaction"
+      - name: customer_id
+        description: "Customer who owns the account"
+      - name: full_name
+        description: "Customer's full name"
+      - name: transaction_type
+        description: "Type of transaction"
+      - name: amount
+        description: "Transaction amount"
+      - name: transaction_date
+        description: "When transaction occurred"
+
+  - name: account_summary
+    description: "Aggregated transaction metrics at the account level"
+    columns:
+      - name: account_id
+        description: "Unique account identifier"
+      - name: total_transactions
+        description: "Count of all transactions"
+      - name: successful_transactions
+        description: "Number of successful transactions"
+      - name: total_amount
+        description: "Total value of all transactions"
+      - name: avg_transaction_amount
+        description: "Average transaction value"
+      - name: last_transaction_date
+        description: "Most recent transaction date"

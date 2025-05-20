@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: customer
+      - name: product
+      - name: account
+      - name: cards
+      - name: transaction
+
+models:
+  - name: stg_customers
+    description: "Cleaned customer data"
+  - name: stg_products
+    description: "Cleaned product definitions"
+  - name: stg_accounts
+    description: "Account data with customer and product keys"
+  - name: stg_cards
+    description: "Issued card information"
+  - name: stg_transactions
+    description: "Transaction details including amount and channel"
