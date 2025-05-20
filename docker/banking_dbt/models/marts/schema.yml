@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: customer_360
+    description: "Unified customer profile combining demographics, accounts, and transactions"
+  - name: card_usage_summary
+    description: "Summarized metrics for card usage and credit behavior"
