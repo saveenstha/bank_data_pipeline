@@ -1,0 +1,17 @@
+{"timestamp":"2025-05-20T05:09:52.385334","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:10:22.930322","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:10:53.488559","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:11:24.006013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:11:55.090477","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:12:26.056169","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:12:57.109919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:13:28.057760","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:13:59.258324","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:14:30.267714","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:15:01.339590","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:15:32.450421","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:16:03.418338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:16:34.262246","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:17:05.220616","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:17:36.027812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T05:18:07.083531","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/banking_ingestion_dag.py","logger":"airflow.models.dagbag.DagBag"}
